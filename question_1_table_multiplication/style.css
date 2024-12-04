@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    color: #d7229d;
+}
+
+table {
+    background-color: #1b2024;
+    color: white;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid gray;
+}
+
+table td {
+    border: 1px solid gray;
+    padding: 15px 0;
+}
+
+.bck-gray {
+    background-color: #c1c1c1;
+    color: black;
+}
